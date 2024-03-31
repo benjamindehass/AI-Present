@@ -1,2 +1,2 @@
 # AI-Present
-Your automated presentation partner
+Your automated presentation partner.
